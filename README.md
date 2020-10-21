@@ -10,4 +10,5 @@ To Run:
 * Extract all
 * Run Oct14.exe
 
+I have no home screen so just alt tab out and exit the game from the exterior.
 In the future, I plan on implimenting the standard video game features (HUD, life, enemies, music) along with creative objectives like time manipulation, character development, and more.
